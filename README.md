@@ -1,1 +1,1 @@
-# campromo
+# coupromo
