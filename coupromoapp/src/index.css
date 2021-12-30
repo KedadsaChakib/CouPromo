@@ -1,0 +1,267 @@
+.Navbar {
+  position: absolute;
+  width: 820px;
+  height: 72px;
+  left: 650px;
+  top: 1px;
+
+  background: #9acdfb;
+  border-radius: 36px;
+}
+
+.btn {
+  position: absolute;
+  width: 163px;
+  height: 45px;
+  left: 0px;
+  top: 0px;
+  border: 2px solid #ed5525;
+  border-radius: 22px;
+}
+
+.btntext {
+  position: absolute;
+
+  font-family: Merriweather;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: 0.02em;
+}
+.menu {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 765px;
+  top: 21px;
+  color: #ed5525;
+  transform: rotateX(180deg);
+}
+
+.list {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.bluerectangle {
+  position: absolute;
+  width: 100%;
+  height: 481px;
+  left: 0px;
+  top: 198px;
+  background-color: rgba(100, 181, 255, 0.63);
+}
+
+.bigtitle {
+  position: absolute;
+  width: 568.93px;
+  height: 135px;
+  left: 78.69px;
+  top: 63px;
+
+  font-family: Merriweather;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 45px;
+  letter-spacing: 0.02em;
+
+  color: #1b398e;
+}
+
+.littletext {
+  position: absolute;
+  width: 562.55px;
+  height: 99px;
+  left: 78.69px;
+  top: 273px;
+
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 0.03em;
+
+  color: #333333;
+}
+
+.searchbar {
+  position: absolute;
+  width: 417px;
+  height: 45px;
+  left: 79px;
+  top: 404px;
+
+  background: #ffffff;
+  border-radius: 22px;
+}
+
+.bellimage {
+  position: absolute;
+  width: 283.82px;
+  height: 274.54px;
+  left: 640.18px;
+  top: 18px;
+}
+
+.gradient {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  width: 1226px;
+  height: 496px;
+  left: 140px;
+  top: 850px;
+
+  background: linear-gradient(
+    180deg,
+    rgba(1, 150, 250, 0.38) 0.52%,
+    rgba(1, 150, 250, 0.02) 100%
+  );
+}
+.gradient > div {
+  width: 214.47px;
+  height: 214.58px;
+  margin-top: 5%;
+  margin-right: 10%;
+  background: #ffffff;
+  opacity: 0.39;
+  border-radius: 20px;
+}
+
+.imagebg {
+  position: absolute;
+  width: 214.47px;
+  height: 214.58px;
+  left: 209px;
+  top: 851px;
+
+  /* background: #ffffff; */
+  opacity: 0.39;
+  border-radius: 20px;
+}
+
+.title {
+}
+
+.text {
+  position: absolute;
+  width: 299.23px;
+  height: 55px;
+  left: 166.1px;
+  top: 1199px;
+
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 38px;
+  text-align: center;
+  letter-spacing: 0.02em;
+
+  color: #333333;
+}
+
+.formrect {
+  position: fixed;
+  width: 497px;
+  height: 544px;
+  left: 34%;
+  top: 15%;
+
+  background: #9acdfb;
+  border-radius: 49.0901px;
+}
+
+.formrect input {
+  position: absolute;
+  width: 308.43px;
+  height: 57.57px;
+  background: #ffffff;
+  border: 1.53407px solid rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  border-radius: 15.3407px;
+}
+
+.formrect h2 {
+  position: absolute;
+  width: 378.33px;
+  height: 84.76px;
+  left: 57.56px;
+  top: 23.03px;
+
+  font-family: Merriweather;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 72px;
+
+  text-align: center;
+
+  color: #223552;
+}
+
+.formrect h3 {
+  position: absolute;
+  width: 472px;
+  height: 36px;
+  left: 10px;
+  top: 81px;
+
+  font-family: Taviraj;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 30px;
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.formbutton {
+  position: absolute;
+  width: 360px;
+  height: 68px;
+  left: 62px;
+  top: 344px;
+
+  background: #223552;
+  border-radius: 23.011px;
+}
+
+.formrect h4 {
+  position: absolute;
+  width: 245px;
+  height: 42px;
+  left: 119px;
+  bottom: 110px;
+
+  font-family: Karla;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 44px;
+
+  text-align: center;
+
+  color: #9acdfb;
+}
+
+.logo {
+  position: absolute;
+  left: 68px;
+  top: 29px;
+}
+.footer {
+  position: absolute;
+  width: 100%;
+  height: 544px;
+  left: 0px;
+  top: 2000px;
+
+  background: #9acdfb;
+}
