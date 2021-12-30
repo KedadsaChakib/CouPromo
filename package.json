@@ -1,0 +1,21 @@
+{
+  "name": "coupromo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/islo1234/coupromo.git",
+  "author": "islam <ki_kedadsa@esi.dz>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "crypto": "^1.0.1",
+    "express": "^4.17.2",
+    "helmet": "^4.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.1.4"
+  }
+}
